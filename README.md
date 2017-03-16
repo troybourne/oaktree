@@ -1,2 +1,3 @@
 # oaktree
-a collection of apps for Acorn
+#a collection of apps for Acorn
+#I am the sole Engineer at Acorn Manufacturing. In addition to doing mechanical engineering, SolidWorks design and chief repair man I have recently been learning Python and Appsheet with the intent of creating Mobile apps for QC, Production Organization, Production Recipes, Dynamic Statistics pertaining to production, Labor Tracking, Request for Repair, etc. I also intend to design some production robotics, hopefully using single board computers using Python or if needed Ladder Logic. I have much to learn but have been slugging through Python. I hope to find some contacts here that can help me take what I learn in Python and convert it for use in Android applications. I am also hoping to link to our SQL servers, but likely just for 'read-only' use.
